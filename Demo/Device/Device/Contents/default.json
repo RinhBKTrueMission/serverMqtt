@@ -1,0 +1,173 @@
+﻿{
+  "primary": {
+    "default": {
+      "background": "0065b3",
+      "foreground": "fff"
+    },
+    "hover": { "opacity": 0.85 }
+  },
+  "danger": {
+    "default": {
+      "background": "f00",
+      "foreground": "fff"
+    }
+  },
+  "warning": {
+    "default": {
+      "background": "f80",
+      "foreground": "fff"
+    }
+  },
+  "black": {
+    "default": {
+      "background": "333",
+      "foreground": "EDF5E7"
+    },
+    "hover": {
+      "background": 0
+    }
+  },
+  "input": {
+    "default": {
+      "bordercolor": "ccc"
+    },
+    "focus": {
+      "bordercolor": "f80"
+    }
+  },
+  "input-caption": {
+    "default": {
+      "foreground": "99e"
+    }
+  },
+  "top-menu-item": {
+    "default": {
+      "foreground": "EDF5E7",
+      "fontsize": 14,
+      "fontweight": 600
+    },
+    "hover": {
+      "foreground": "008cfc"
+    }
+  },
+  "nav-menu-item": {
+    "default": {
+      "bordercolor": "222",
+      "background": -1,
+      "foreground": "999",
+      "fontsize": 14
+    },
+    "hover": {
+      "background": "333"
+    }
+  },
+  "list-caption": {
+    "default": {
+      "background": "EDF5E7",
+      "fontweight": 600,
+      "fontsize": 14,
+      "padding": "0, 10"
+    }
+  },
+  "data-row": {
+    "default": {
+      "background": "eee",
+      "foreground": "111",
+      "padding": "0, 3"
+    },
+    "hover": {
+      "background": "f80",
+      "foreground": "fff"
+    }
+  },
+  "app-caption": {
+    "default": {
+      "background": 0,
+      "foreground": "EDF5E7",
+      "fontsize": 22
+    }
+  },
+  "content-caption": {
+    "default": {
+      "background": "666",
+      "foreground": "edf5e7",
+      "padding": 10,
+      "fontsize": 24
+    }
+  },
+  "dlg-header": {
+    "default": {
+      "background": "112",
+      "foreground": "fff",
+      "fontsize": 16
+    }
+  },
+  "dlg-body": {
+    "default": {
+      "foreground": "008"
+    }
+  },
+  "dlg-footer": {
+    "default": {
+      "background": "ccc"
+    }
+  },
+  "menu": {
+    "default": {
+      "background": "111",
+      "foreground": "EDF5E7",
+      "fontsize": 18
+    },
+    "hover": {
+      "foreground": "f00"
+    }
+  },
+  "server-row": {
+    "default": {
+      "background": "edf5e7",
+      "margin": 1,
+      "padding": "5, 20"
+    }
+  },
+  "server-label": {
+    "default": {
+      "fontsize": 16,
+      "fontweight": 600,
+      "halign": 0
+    }
+  },
+  "server-info": {
+    "default": {
+      "foreground": "999",
+      "halign": 0
+    }
+  },
+  "test": {
+    "default": {
+      "margin": "20, 0",
+      "fontsize": 16
+    }
+  },
+
+  "io": {
+    "default": {
+      "background": "ccc",
+      "fontsize": 18
+    }
+  },
+  "alarm": {
+    "default": {
+      "background": "c00"
+    }
+  },
+  "relay-on": {
+    "default": {
+      "background": "080"
+    }
+  },
+  "led-on": {
+    "default": {
+      "background": "0f0"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\bin\Debug\ServerBase.dll
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\bin\Debug\ServerBase.pdb
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\bin\Debug\MvcEngine.dll
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\bin\Debug\MvcEngine.pdb
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\obj\Debug\ServerBase.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\obj\Debug\ServerBase.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\obj\Debug\ServerBase.csproj.CopyComplete
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\obj\Debug\ServerBase.dll
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\obj\Debug\ServerBase.pdb
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\bin\Debug\BsonData.dll
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\bin\Debug\BsonData.pdb
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\bin\Debug\AccountModels.dll
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\bin\Debug\Security.dll
+C:\Users\lenovo\Desktop\DATN\ServerManager\ServerBase\bin\Debug\AccountModels.pdb
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\ServerBase.dll.config
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\ServerBase.dll
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\ServerBase.pdb
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\AccountModels.dll
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\MvcEngine.dll
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.dll
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Security.dll
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\VstJson.dll
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\VstJson.pdb
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\AccountModels.pdb
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\MvcEngine.pdb
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.csprojAssemblyReference.cache
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.csproj.CoreCompileInputs.cache
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.csproj.CopyComplete
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.dll
+D:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.pdb
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\ServerBase.dll.config
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\ServerBase.dll
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\ServerBase.pdb
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\AccountModels.dll
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\MvcEngine.dll
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.dll
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\VstJson.dll
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.Bson.dll
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\VstJson.pdb
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\AccountModels.pdb
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\MvcEngine.pdb
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.Bson.pdb
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.Bson.xml
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.csprojAssemblyReference.cache
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.csproj.CoreCompileInputs.cache
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.csproj.CopyComplete
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.dll
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.pdb
+G:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Security.dll
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.csprojAssemblyReference.cache
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.csproj.CoreCompileInputs.cache
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.dll
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.pdb
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\ServerBase.dll.config
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\ServerBase.dll
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\ServerBase.pdb
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\AccountModels.dll
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\MvcEngine.dll
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.dll
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\VstJson.dll
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.Bson.dll
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\VstJson.pdb
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\AccountModels.pdb
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\MvcEngine.pdb
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.Bson.pdb
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\bin\Debug\Newtonsoft.Json.Bson.xml
+F:\Working\2017\MQTT Server\ServerManager\ServerBase\obj\Debug\ServerBase.csproj.CopyComplete
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\ServerBase.dll.config
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\ServerBase.dll
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\ServerBase.pdb
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\MvcEngine.dll
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\VstJson.dll
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\MvcEngine.pdb
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\VstJson.pdb
+D:\Programming\MQTT\Server\ServerBase\obj\Debug\ServerBase.csprojAssemblyReference.cache
+D:\Programming\MQTT\Server\ServerBase\obj\Debug\ServerBase.csproj.CoreCompileInputs.cache
+D:\Programming\MQTT\Server\ServerBase\obj\Debug\ServerBase.csproj.CopyComplete
+D:\Programming\MQTT\Server\ServerBase\obj\Debug\ServerBase.dll
+D:\Programming\MQTT\Server\ServerBase\obj\Debug\ServerBase.pdb
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\Security.dll
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\Mqtt.Models.dll
+D:\Programming\MQTT\Server\ServerBase\bin\Debug\Mqtt.Models.pdb
+D:\MQTT\Server\ServerBase\obj\Debug\ServerBase.csprojAssemblyReference.cache
+D:\MQTT\Server\ServerBase\obj\Debug\ServerBase.csproj.CoreCompileInputs.cache
+D:\MQTT\Server\ServerBase\bin\Debug\ServerBase.dll.config
+D:\MQTT\Server\ServerBase\bin\Debug\ServerBase.dll
+D:\MQTT\Server\ServerBase\bin\Debug\ServerBase.pdb
+D:\MQTT\Server\ServerBase\bin\Debug\Mqtt.Models.dll
+D:\MQTT\Server\ServerBase\bin\Debug\MvcEngine.dll
+D:\MQTT\Server\ServerBase\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT\Server\ServerBase\bin\Debug\Security.dll
+D:\MQTT\Server\ServerBase\bin\Debug\VstJson.dll
+D:\MQTT\Server\ServerBase\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT\Server\ServerBase\bin\Debug\Mqtt.Models.pdb
+D:\MQTT\Server\ServerBase\bin\Debug\MvcEngine.pdb
+D:\MQTT\Server\ServerBase\bin\Debug\VstJson.pdb
+D:\MQTT\Server\ServerBase\obj\Debug\ServerBase.csproj.CopyComplete
+D:\MQTT\Server\ServerBase\obj\Debug\ServerBase.dll
+D:\MQTT\Server\ServerBase\obj\Debug\ServerBase.pdb
+D:\MQTT manager\MQTT\Server\ServerBase\bin\Debug\ServerBase.dll.config
+D:\MQTT manager\MQTT\Server\ServerBase\bin\Debug\ServerBase.dll
+D:\MQTT manager\MQTT\Server\ServerBase\bin\Debug\ServerBase.pdb
+D:\MQTT manager\MQTT\Server\ServerBase\bin\Debug\Mqtt.Models.dll
+D:\MQTT manager\MQTT\Server\ServerBase\bin\Debug\MvcEngine.dll
+D:\MQTT manager\MQTT\Server\ServerBase\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT manager\MQTT\Server\ServerBase\bin\Debug\VstJson.dll
+D:\MQTT manager\MQTT\Server\ServerBase\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT manager\MQTT\Server\ServerBase\bin\Debug\Mqtt.Models.pdb
+D:\MQTT manager\MQTT\Server\ServerBase\bin\Debug\MvcEngine.pdb
+D:\MQTT manager\MQTT\Server\ServerBase\bin\Debug\VstJson.pdb
+D:\MQTT manager\MQTT\Server\ServerBase\obj\Debug\ServerBase.csprojAssemblyReference.cache
+D:\MQTT manager\MQTT\Server\ServerBase\obj\Debug\ServerBase.csproj.CoreCompileInputs.cache
+D:\MQTT manager\MQTT\Server\ServerBase\obj\Debug\ServerBase.csproj.CopyComplete
+D:\MQTT manager\MQTT\Server\ServerBase\obj\Debug\ServerBase.dll
+D:\MQTT manager\MQTT\Server\ServerBase\obj\Debug\ServerBase.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\bin\Debug\ServerBase.dll.config
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\bin\Debug\ServerBase.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\bin\Debug\ServerBase.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\bin\Debug\Mqtt.Models.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\bin\Debug\MvcEngine.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\bin\Debug\VstJson.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\bin\Debug\Mqtt.Models.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\bin\Debug\MvcEngine.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\bin\Debug\VstJson.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\obj\Debug\ServerBase.csproj.AssemblyReference.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\obj\Debug\ServerBase.csproj.CoreCompileInputs.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\obj\Debug\ServerBase.csproj.CopyComplete
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\obj\Debug\ServerBase.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\ServerBase\obj\Debug\ServerBase.pdb

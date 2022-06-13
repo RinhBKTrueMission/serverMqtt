@@ -1,0 +1,51 @@
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\Mqtt.Client.exe.config
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\Mqtt.Client.exe
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\Mqtt.Client.pdb
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\M2Mqtt.Net.dll
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\Mqtt.Models.dll
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\MvcEngine.dll
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\VstJson.dll
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\Mqtt.Models.pdb
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\MvcEngine.pdb
+D:\Programming\MQTT\Mqtt.Client\bin\Debug\VstJson.pdb
+D:\Programming\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.csprojAssemblyReference.cache
+D:\Programming\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.csproj.CoreCompileInputs.cache
+D:\Programming\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.csproj.CopyComplete
+D:\Programming\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.exe
+D:\Programming\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.pdb
+D:\MQTT\Mqtt.Client\bin\Debug\Mqtt.Client.exe.config
+D:\MQTT\Mqtt.Client\bin\Debug\Mqtt.Client.exe
+D:\MQTT\Mqtt.Client\bin\Debug\Mqtt.Client.pdb
+D:\MQTT\Mqtt.Client\bin\Debug\M2Mqtt.Net.dll
+D:\MQTT\Mqtt.Client\bin\Debug\Mqtt.Models.dll
+D:\MQTT\Mqtt.Client\bin\Debug\MvcEngine.dll
+D:\MQTT\Mqtt.Client\bin\Debug\VstJson.dll
+D:\MQTT\Mqtt.Client\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT\Mqtt.Client\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT\Mqtt.Client\bin\Debug\Mqtt.Models.pdb
+D:\MQTT\Mqtt.Client\bin\Debug\MvcEngine.pdb
+D:\MQTT\Mqtt.Client\bin\Debug\VstJson.pdb
+D:\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.csprojAssemblyReference.cache
+D:\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.csproj.CoreCompileInputs.cache
+D:\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.csproj.CopyComplete
+D:\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.exe
+D:\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.pdb
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\Mqtt.Client.exe.config
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\Mqtt.Client.exe
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\Mqtt.Client.pdb
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\M2Mqtt.Net.dll
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\Mqtt.Models.dll
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\MvcEngine.dll
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\VstJson.dll
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\Mqtt.Models.pdb
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\MvcEngine.pdb
+D:\MQTT manager\MQTT\Mqtt.Client\bin\Debug\VstJson.pdb
+D:\MQTT manager\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.csprojAssemblyReference.cache
+D:\MQTT manager\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.csproj.CoreCompileInputs.cache
+D:\MQTT manager\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.csproj.CopyComplete
+D:\MQTT manager\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.exe
+D:\MQTT manager\MQTT\Mqtt.Client\obj\Debug\Mqtt.Client.pdb

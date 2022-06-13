@@ -1,0 +1,51 @@
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Wpf.Controls.dll
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Wpf.Controls.pdb
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\bin\Debug\VstJson.dll
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\bin\Debug\VstJson.pdb
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csprojAssemblyReference.cache
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls_MarkupCompile.cache
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls_MarkupCompile.lref
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Themes\Generic.baml
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.g.resources
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.Properties.Resources.resources
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csproj.GenerateResource.cache
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csproj.CoreCompileInputs.cache
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csproj.CopyComplete
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.dll
+D:\Programming\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.pdb
+D:\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Wpf.Controls.dll
+D:\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Wpf.Controls.pdb
+D:\MQTT\Demo\Device\Wpf.Controls\bin\Debug\VstJson.dll
+D:\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT\Demo\Device\Wpf.Controls\bin\Debug\VstJson.pdb
+D:\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csprojAssemblyReference.cache
+D:\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls_MarkupCompile.cache
+D:\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls_MarkupCompile.lref
+D:\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Themes\Generic.baml
+D:\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.g.resources
+D:\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.Properties.Resources.resources
+D:\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csproj.GenerateResource.cache
+D:\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csproj.CoreCompileInputs.cache
+D:\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csproj.CopyComplete
+D:\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.dll
+D:\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.pdb
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Wpf.Controls.dll
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Wpf.Controls.pdb
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\bin\Debug\VstJson.dll
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\bin\Debug\VstJson.pdb
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csprojAssemblyReference.cache
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls_MarkupCompile.cache
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls_MarkupCompile.lref
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Themes\Generic.baml
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.g.resources
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.Properties.Resources.resources
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csproj.GenerateResource.cache
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csproj.CoreCompileInputs.cache
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.csproj.CopyComplete
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.dll
+D:\MQTT manager\MQTT\Demo\Device\Wpf.Controls\obj\Debug\Wpf.Controls.pdb

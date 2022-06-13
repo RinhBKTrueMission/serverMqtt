@@ -1,0 +1,85 @@
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\config.json
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\MQTTnet.dll
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\MvcEngine.dll
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.dll
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\VstJson.dll
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\MvcEngine.pdb
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\VstJson.pdb
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.pdb
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.dll.config
+D:\Programming\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csprojAssemblyReference.cache
+D:\Programming\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+D:\Programming\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csproj.CopyComplete
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.exe.config
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.exe
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.pdb
+D:\Programming\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.exe
+D:\Programming\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.pdb
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\Mqtt.Models.dll
+D:\Programming\MQTT\Server\Broker\ConsoleApp\bin\Debug\Mqtt.Models.pdb
+D:\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csprojAssemblyReference.cache
+D:\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\config.json
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.exe.config
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.exe
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.pdb
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\Mqtt.Models.dll
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\MQTTnet.dll
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\MvcEngine.dll
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.dll
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\VstJson.dll
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\Mqtt.Models.pdb
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\MvcEngine.pdb
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\VstJson.pdb
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.pdb
+D:\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.dll.config
+D:\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csproj.CopyComplete
+D:\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.exe
+D:\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.pdb
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\config.json
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.exe.config
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.exe
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.pdb
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\Mqtt.Models.dll
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\MQTTnet.dll
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\MvcEngine.dll
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.dll
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\VstJson.dll
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\Mqtt.Models.pdb
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\MvcEngine.pdb
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\VstJson.pdb
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.pdb
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.dll.config
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csprojAssemblyReference.cache
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csproj.CopyComplete
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.exe
+D:\MQTT manager\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\config.json
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.exe.config
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.exe
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\Broker.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\Mqtt.Models.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\MQTTnet.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\MvcEngine.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\VstJson.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\Mqtt.Models.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\MvcEngine.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\VstJson.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\bin\Debug\ServerBase.dll.config
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csproj.AssemblyReference.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csproj.SuggestedBindingRedirects.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.csproj.CopyComplete
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.exe
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Broker\ConsoleApp\obj\Debug\Broker.pdb

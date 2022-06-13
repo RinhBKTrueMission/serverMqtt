@@ -1,0 +1,7 @@
+D:\Programming\MQTT\ClientConsole\ClientConsole\bin\Debug\ClientConsole.exe.config
+D:\Programming\MQTT\ClientConsole\ClientConsole\bin\Debug\ClientConsole.exe
+D:\Programming\MQTT\ClientConsole\ClientConsole\bin\Debug\ClientConsole.pdb
+D:\Programming\MQTT\ClientConsole\ClientConsole\obj\Debug\ClientConsole.csprojAssemblyReference.cache
+D:\Programming\MQTT\ClientConsole\ClientConsole\obj\Debug\ClientConsole.csproj.CoreCompileInputs.cache
+D:\Programming\MQTT\ClientConsole\ClientConsole\obj\Debug\ClientConsole.exe
+D:\Programming\MQTT\ClientConsole\ClientConsole\obj\Debug\ClientConsole.pdb

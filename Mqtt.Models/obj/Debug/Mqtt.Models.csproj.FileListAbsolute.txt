@@ -1,0 +1,23 @@
+D:\Programming\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.dll
+D:\Programming\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.pdb
+D:\Programming\MQTT\Mqtt.Models\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CoreCompileInputs.cache
+D:\Programming\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CopyComplete
+D:\Programming\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.dll
+D:\Programming\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.pdb
+D:\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.dll
+D:\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.pdb
+D:\MQTT\Mqtt.Models\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CoreCompileInputs.cache
+D:\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CopyComplete
+D:\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.dll
+D:\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.pdb
+D:\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csprojAssemblyReference.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\bin\Debug\Mqtt.Models.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.AssemblyReference.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CoreCompileInputs.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.csproj.CopyComplete
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Mqtt.Models\obj\Debug\Mqtt.Models.pdb

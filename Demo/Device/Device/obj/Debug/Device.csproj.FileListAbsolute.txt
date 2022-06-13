@@ -1,0 +1,81 @@
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Device.exe.config
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Device.exe
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Device.pdb
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Client.exe
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Models.dll
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\MvcEngine.dll
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\VstJson.dll
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\M2Mqtt.Net.dll
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Client.pdb
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Client.exe.config
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Models.pdb
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\MvcEngine.pdb
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\VstJson.pdb
+D:\Programming\MQTT\Demo\Device\Device\obj\Debug\Device.csprojAssemblyReference.cache
+D:\Programming\MQTT\Demo\Device\Device\obj\Debug\App.g.cs
+D:\Programming\MQTT\Demo\Device\Device\obj\Debug\Device_MarkupCompile.cache
+D:\Programming\MQTT\Demo\Device\Device\obj\Debug\Device.Properties.Resources.resources
+D:\Programming\MQTT\Demo\Device\Device\obj\Debug\Device.csproj.GenerateResource.cache
+D:\Programming\MQTT\Demo\Device\Device\obj\Debug\Device.csproj.CoreCompileInputs.cache
+D:\Programming\MQTT\Demo\Device\Device\obj\Debug\Device.csproj.CopyComplete
+D:\Programming\MQTT\Demo\Device\Device\obj\Debug\Device.exe
+D:\Programming\MQTT\Demo\Device\Device\obj\Debug\Device.pdb
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Wpf.Controls.dll
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Wpf.Controls.pdb
+D:\Programming\MQTT\Demo\Device\Device\bin\Debug\Contents\default.json
+D:\MQTT\Demo\Device\Device\bin\Debug\Contents\default.json
+D:\MQTT\Demo\Device\Device\bin\Debug\Device.exe.config
+D:\MQTT\Demo\Device\Device\bin\Debug\Device.exe
+D:\MQTT\Demo\Device\Device\bin\Debug\Device.pdb
+D:\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Client.exe
+D:\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Models.dll
+D:\MQTT\Demo\Device\Device\bin\Debug\MvcEngine.dll
+D:\MQTT\Demo\Device\Device\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT\Demo\Device\Device\bin\Debug\VstJson.dll
+D:\MQTT\Demo\Device\Device\bin\Debug\Wpf.Controls.dll
+D:\MQTT\Demo\Device\Device\bin\Debug\M2Mqtt.Net.dll
+D:\MQTT\Demo\Device\Device\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Client.pdb
+D:\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Client.exe.config
+D:\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Models.pdb
+D:\MQTT\Demo\Device\Device\bin\Debug\MvcEngine.pdb
+D:\MQTT\Demo\Device\Device\bin\Debug\VstJson.pdb
+D:\MQTT\Demo\Device\Device\bin\Debug\Wpf.Controls.pdb
+D:\MQTT\Demo\Device\Device\obj\Debug\Device.csprojAssemblyReference.cache
+D:\MQTT\Demo\Device\Device\obj\Debug\App.g.cs
+D:\MQTT\Demo\Device\Device\obj\Debug\Device_MarkupCompile.cache
+D:\MQTT\Demo\Device\Device\obj\Debug\Device.Properties.Resources.resources
+D:\MQTT\Demo\Device\Device\obj\Debug\Device.csproj.GenerateResource.cache
+D:\MQTT\Demo\Device\Device\obj\Debug\Device.csproj.CoreCompileInputs.cache
+D:\MQTT\Demo\Device\Device\obj\Debug\Device.csproj.CopyComplete
+D:\MQTT\Demo\Device\Device\obj\Debug\Device.exe
+D:\MQTT\Demo\Device\Device\obj\Debug\Device.pdb
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Contents\default.json
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Device.exe.config
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Device.exe
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Device.pdb
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Client.exe
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Models.dll
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\MvcEngine.dll
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\VstJson.dll
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Wpf.Controls.dll
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\M2Mqtt.Net.dll
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Client.pdb
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Client.exe.config
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Mqtt.Models.pdb
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\MvcEngine.pdb
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\VstJson.pdb
+D:\MQTT manager\MQTT\Demo\Device\Device\bin\Debug\Wpf.Controls.pdb
+D:\MQTT manager\MQTT\Demo\Device\Device\obj\Debug\Device.csprojAssemblyReference.cache
+D:\MQTT manager\MQTT\Demo\Device\Device\obj\Debug\App.g.cs
+D:\MQTT manager\MQTT\Demo\Device\Device\obj\Debug\Device_MarkupCompile.cache
+D:\MQTT manager\MQTT\Demo\Device\Device\obj\Debug\Device.Properties.Resources.resources
+D:\MQTT manager\MQTT\Demo\Device\Device\obj\Debug\Device.csproj.GenerateResource.cache
+D:\MQTT manager\MQTT\Demo\Device\Device\obj\Debug\Device.csproj.CoreCompileInputs.cache
+D:\MQTT manager\MQTT\Demo\Device\Device\obj\Debug\Device.csproj.CopyComplete
+D:\MQTT manager\MQTT\Demo\Device\Device\obj\Debug\Device.exe
+D:\MQTT manager\MQTT\Demo\Device\Device\obj\Debug\Device.pdb

@@ -1,0 +1,31 @@
+D:\Programming\VstJson\VstJson\bin\Debug\VstJson.dll
+D:\Programming\VstJson\VstJson\bin\Debug\VstJson.pdb
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.dll
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.pdb
+D:\Programming\VstJson\VstJson\obj\Debug\VstJson.csprojAssemblyReference.cache
+D:\MQTT\VstJson\VstJson\bin\Debug\VstJson.dll
+D:\MQTT\VstJson\VstJson\bin\Debug\VstJson.pdb
+D:\MQTT\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+D:\MQTT\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+D:\MQTT\VstJson\VstJson\obj\Debug\VstJson.dll
+D:\MQTT\VstJson\VstJson\obj\Debug\VstJson.pdb
+D:\MQTT\VstJson\VstJson\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT\VstJson\VstJson\obj\Debug\VstJson.csprojAssemblyReference.cache
+D:\MQTT manager\MQTT\VstJson\VstJson\bin\Debug\VstJson.dll
+D:\MQTT manager\MQTT\VstJson\VstJson\bin\Debug\VstJson.pdb
+D:\MQTT manager\MQTT\VstJson\VstJson\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT manager\MQTT\VstJson\VstJson\obj\Debug\VstJson.csprojAssemblyReference.cache
+D:\MQTT manager\MQTT\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+D:\MQTT manager\MQTT\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+D:\MQTT manager\MQTT\VstJson\VstJson\obj\Debug\VstJson.dll
+D:\MQTT manager\MQTT\VstJson\VstJson\obj\Debug\VstJson.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\VstJson\VstJson\bin\Debug\VstJson.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\VstJson\VstJson\bin\Debug\VstJson.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\VstJson\VstJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\VstJson\VstJson\obj\Debug\VstJson.csproj.AssemblyReference.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\VstJson\VstJson\obj\Debug\VstJson.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\VstJson\VstJson\obj\Debug\VstJson.pdb

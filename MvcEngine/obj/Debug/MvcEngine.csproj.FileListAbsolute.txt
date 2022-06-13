@@ -1,0 +1,30 @@
+D:\Programming\MvcEngine\bin\Debug\MvcEngine.dll
+D:\Programming\MvcEngine\bin\Debug\MvcEngine.pdb
+D:\Programming\MvcEngine\obj\Debug\MvcEngine.csproj.CoreCompileInputs.cache
+D:\Programming\MvcEngine\obj\Debug\MvcEngine.dll
+D:\Programming\MvcEngine\obj\Debug\MvcEngine.pdb
+D:\Programming\MvcEngine\obj\Debug\MvcEngine.csprojAssemblyReference.cache
+D:\Programming\MQTT\MvcEngine\bin\Debug\MvcEngine.dll
+D:\Programming\MQTT\MvcEngine\bin\Debug\MvcEngine.pdb
+D:\Programming\MQTT\MvcEngine\obj\Debug\MvcEngine.csprojAssemblyReference.cache
+D:\Programming\MQTT\MvcEngine\obj\Debug\MvcEngine.csproj.CoreCompileInputs.cache
+D:\Programming\MQTT\MvcEngine\obj\Debug\MvcEngine.dll
+D:\Programming\MQTT\MvcEngine\obj\Debug\MvcEngine.pdb
+D:\MQTT\MvcEngine\bin\Debug\MvcEngine.dll
+D:\MQTT\MvcEngine\bin\Debug\MvcEngine.pdb
+D:\MQTT\MvcEngine\obj\Debug\MvcEngine.csproj.CoreCompileInputs.cache
+D:\MQTT\MvcEngine\obj\Debug\MvcEngine.dll
+D:\MQTT\MvcEngine\obj\Debug\MvcEngine.pdb
+D:\MQTT\MvcEngine\obj\Debug\MvcEngine.csprojAssemblyReference.cache
+D:\MQTT manager\MQTT\MvcEngine\bin\Debug\MvcEngine.dll
+D:\MQTT manager\MQTT\MvcEngine\bin\Debug\MvcEngine.pdb
+D:\MQTT manager\MQTT\MvcEngine\obj\Debug\MvcEngine.csprojAssemblyReference.cache
+D:\MQTT manager\MQTT\MvcEngine\obj\Debug\MvcEngine.csproj.CoreCompileInputs.cache
+D:\MQTT manager\MQTT\MvcEngine\obj\Debug\MvcEngine.dll
+D:\MQTT manager\MQTT\MvcEngine\obj\Debug\MvcEngine.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\MvcEngine\bin\Debug\MvcEngine.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\MvcEngine\bin\Debug\MvcEngine.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\MvcEngine\obj\Debug\MvcEngine.csproj.AssemblyReference.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\MvcEngine\obj\Debug\MvcEngine.csproj.CoreCompileInputs.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\MvcEngine\obj\Debug\MvcEngine.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\MvcEngine\obj\Debug\MvcEngine.pdb

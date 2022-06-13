@@ -1,0 +1,77 @@
+D:\Programming\MQTT\Server\Device\bin\Debug\Device.exe.config
+D:\Programming\MQTT\Server\Device\bin\Debug\Device.exe
+D:\Programming\MQTT\Server\Device\bin\Debug\Device.pdb
+D:\Programming\MQTT\Server\Device\bin\Debug\Mqtt.Models.dll
+D:\Programming\MQTT\Server\Device\bin\Debug\MvcEngine.dll
+D:\Programming\MQTT\Server\Device\bin\Debug\ServerBase.dll
+D:\Programming\MQTT\Server\Device\bin\Debug\VstJson.dll
+D:\Programming\MQTT\Server\Device\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\MQTT\Server\Device\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Programming\MQTT\Server\Device\bin\Debug\Mqtt.Models.pdb
+D:\Programming\MQTT\Server\Device\bin\Debug\MvcEngine.pdb
+D:\Programming\MQTT\Server\Device\bin\Debug\VstJson.pdb
+D:\Programming\MQTT\Server\Device\bin\Debug\ServerBase.pdb
+D:\Programming\MQTT\Server\Device\bin\Debug\ServerBase.dll.config
+D:\Programming\MQTT\Server\Device\obj\Debug\Device.csprojAssemblyReference.cache
+D:\Programming\MQTT\Server\Device\obj\Debug\Device.csproj.CoreCompileInputs.cache
+D:\Programming\MQTT\Server\Device\obj\Debug\Device.csproj.CopyComplete
+D:\Programming\MQTT\Server\Device\obj\Debug\Device.exe
+D:\Programming\MQTT\Server\Device\obj\Debug\Device.pdb
+D:\MQTT\Server\Device\obj\Debug\Device.csprojAssemblyReference.cache
+D:\MQTT\Server\Device\obj\Debug\Device.csproj.CoreCompileInputs.cache
+D:\MQTT\Server\Device\bin\Debug\Device.exe.config
+D:\MQTT\Server\Device\bin\Debug\Device.exe
+D:\MQTT\Server\Device\bin\Debug\Device.pdb
+D:\MQTT\Server\Device\bin\Debug\Mqtt.Models.dll
+D:\MQTT\Server\Device\bin\Debug\MvcEngine.dll
+D:\MQTT\Server\Device\bin\Debug\ServerBase.dll
+D:\MQTT\Server\Device\bin\Debug\VstJson.dll
+D:\MQTT\Server\Device\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT\Server\Device\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT\Server\Device\bin\Debug\Mqtt.Models.pdb
+D:\MQTT\Server\Device\bin\Debug\MvcEngine.pdb
+D:\MQTT\Server\Device\bin\Debug\VstJson.pdb
+D:\MQTT\Server\Device\bin\Debug\ServerBase.pdb
+D:\MQTT\Server\Device\bin\Debug\ServerBase.dll.config
+D:\MQTT\Server\Device\obj\Debug\Device.csproj.CopyComplete
+D:\MQTT\Server\Device\obj\Debug\Device.exe
+D:\MQTT\Server\Device\obj\Debug\Device.pdb
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\Device.exe.config
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\Device.exe
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\Device.pdb
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\Mqtt.Models.dll
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\MvcEngine.dll
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\ServerBase.dll
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\VstJson.dll
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\Newtonsoft.Json.dll
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\Mqtt.Models.pdb
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\MvcEngine.pdb
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\VstJson.pdb
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\ServerBase.pdb
+D:\MQTT manager\MQTT\Server\Device\bin\Debug\ServerBase.dll.config
+D:\MQTT manager\MQTT\Server\Device\obj\Debug\Device.csprojAssemblyReference.cache
+D:\MQTT manager\MQTT\Server\Device\obj\Debug\Device.csproj.CoreCompileInputs.cache
+D:\MQTT manager\MQTT\Server\Device\obj\Debug\Device.csproj.CopyComplete
+D:\MQTT manager\MQTT\Server\Device\obj\Debug\Device.exe
+D:\MQTT manager\MQTT\Server\Device\obj\Debug\Device.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\Device.exe.config
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\Device.exe
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\Device.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\Mqtt.Models.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\MvcEngine.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\ServerBase.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\VstJson.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\Mqtt.Models.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\MvcEngine.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\VstJson.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\ServerBase.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\ServerBase.dll.config
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\obj\Debug\Device.csproj.AssemblyReference.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\obj\Debug\Device.csproj.SuggestedBindingRedirects.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\obj\Debug\Device.csproj.CoreCompileInputs.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\obj\Debug\Device.csproj.CopyComplete
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\obj\Debug\Device.exe
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\obj\Debug\Device.pdb
