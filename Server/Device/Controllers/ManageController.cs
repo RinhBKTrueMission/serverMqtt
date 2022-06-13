@@ -52,7 +52,30 @@ namespace Device.Controllers
             var uc = new ManageController();
             uc.NodeDb = new Vst.Server.Data.NodeData(uc.MainDb.PhysicalPath);
             var lstDevice = uc.NodeDb.GetAll();
-            return Response(lstDevice);
+            var sum = new nodeSum();
+            
+            foreach(NodeModel device in lstDevice)
+            {
+                var lst = device.listData.ToArray();
+                switch (device.function)
+                {
+                    case 0:
+                        sum.nhiet_doi += lst[lst.Length-1].value;
+                        break;
+                    case 1:
+                        sum.gas += lst[lst.Length - 1].value;
+                        break;
+                    case 2:
+                        sum.khoi += lst[lst.Length - 1].value;
+                        break;
+                    case 3:
+                        sum.do_am += lst[lst.Length - 1].value;
+                        break;
+
+                }
+            }
+            
+            return Response("Tong quat",Json.Convert<nodeSum>(sum));
 
         }
         public object NodeList()

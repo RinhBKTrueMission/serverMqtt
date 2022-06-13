@@ -18,8 +18,8 @@ namespace Device.Models
         /*
          0 báo nhiệt
          1 báo gas
-         1 báo khói
-         1 cảm biến độ ẩm
+         2 báo khói
+         3 cảm biến độ ẩm
          */
         public int function { get; set; }
         public List<setData> listData { get; set; }
@@ -31,5 +31,12 @@ namespace Device.Models
     {
         public long Time { get; set; }
         public double value { get; set; }
+    }
+    public class nodeSum
+    {
+        public double nhiet_doi { get; set; }//0
+        public double gas { get; set; }//1
+        public double khoi { get; set; }//2
+        public double do_am { get; set; }//3
     }
 }
