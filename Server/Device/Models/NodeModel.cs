@@ -34,7 +34,7 @@ namespace Device.Models
     }
     public class nodeSum
     {
-        public double nhiet_doi { get; set; }//0
+        public double nhiet_do { get; set; }//0
         public double gas { get; set; }//1
         public double khoi { get; set; }//2
         public double do_am { get; set; }//3

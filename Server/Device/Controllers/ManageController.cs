@@ -36,6 +36,29 @@ namespace Device.Controllers
             uc.DeviceDb.Update(data.Id, data);
             return Response(null);
         }
+        public object UpdateNode()
+        {
+            var d = this.ServerContext.Value.ToString();
+            var data = JsonConvert.DeserializeObject<NodeModel>(d);
+            var uc = new ManageController();
+            uc.NodeDb = new Vst.Server.Data.NodeData(uc.MainDb.PhysicalPath);
+            var newV = uc.NodeDb.FindById(data.Id);
+            var newValue = JsonConvert.DeserializeObject<NodeModel>(newV.ToString());
+            if (newValue.listData.Count==0)
+            {
+                newValue.listData = new List<setData>();
+                newValue.listData.AddRange(data.listData);
+                newValue.function = data.function;
+            }
+            else
+            {
+                newValue.listData.AddRange(data.listData);
+                newValue.function = data.function;
+            }
+           
+            uc.NodeDb.Update(data.Id, newValue);
+            return Response("Success");
+        }
         public object Find()
         {
             var Id = this.ServerContext.Value.ToString();
@@ -53,29 +76,37 @@ namespace Device.Controllers
             uc.NodeDb = new Vst.Server.Data.NodeData(uc.MainDb.PhysicalPath);
             var lstDevice = uc.NodeDb.GetAll();
             var sum = new nodeSum();
-            
-            foreach(NodeModel device in lstDevice)
+            int x1 , x2, x3, x4;
+            x1 = x2 = x3 = x4 = 0;
+            foreach (NodeModel device in JsonConvert.DeserializeObject<List<NodeModel>>(JsonConvert.SerializeObject(lstDevice)))
             {
                 var lst = device.listData.ToArray();
                 switch (device.function)
                 {
                     case 0:
-                        sum.nhiet_doi += lst[lst.Length-1].value;
+                        sum.nhiet_do += lst[lst.Length-1].value;
+                        x1++;
                         break;
                     case 1:
                         sum.gas += lst[lst.Length - 1].value;
+                        x2++;
                         break;
                     case 2:
                         sum.khoi += lst[lst.Length - 1].value;
+                        x3++;
                         break;
                     case 3:
                         sum.do_am += lst[lst.Length - 1].value;
+                        x4++;
                         break;
 
                 }
             }
-            
-            return Response("Tong quat",Json.Convert<nodeSum>(sum));
+            sum.nhiet_do = sum.nhiet_do / x1;
+            sum.khoi = sum.khoi / x3;
+            sum.gas = sum.gas / x2;
+            sum.do_am = sum.do_am / x4;
+            return Response("response/tong", Json.Convert<nodeSum>(sum));
 
         }
         public object NodeList()

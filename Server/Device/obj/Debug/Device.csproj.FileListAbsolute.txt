@@ -75,3 +75,5 @@ C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\
 C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\obj\Debug\Device.csproj.CopyComplete
 C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\obj\Debug\Device.exe
 C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\obj\Debug\Device.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Device\obj\Debug\Device.exe.config

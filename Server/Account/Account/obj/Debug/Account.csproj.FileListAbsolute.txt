@@ -55,3 +55,23 @@ D:\MQTT manager\MQTT\Server\Account\Account\obj\Debug\Account.csproj.CoreCompile
 D:\MQTT manager\MQTT\Server\Account\Account\obj\Debug\Account.csproj.CopyComplete
 D:\MQTT manager\MQTT\Server\Account\Account\obj\Debug\Account.exe
 D:\MQTT manager\MQTT\Server\Account\Account\obj\Debug\Account.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\Account.exe.config
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\Account.exe
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\Account.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\Mqtt.Models.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\MvcEngine.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\ServerBase.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\VstJson.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\Mqtt.Models.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\MvcEngine.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\VstJson.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\ServerBase.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\ServerBase.dll.config
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\obj\Debug\Account.csproj.SuggestedBindingRedirects.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\obj\Debug\Account.csproj.CopyComplete
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\obj\Debug\Account.exe
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\obj\Debug\Account.pdb
