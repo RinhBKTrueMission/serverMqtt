@@ -34,9 +34,51 @@ namespace Device.Models
     }
     public class nodeSum
     {
-        public double nhiet_do { get; set; }//0
-        public double gas { get; set; }//1
-        public double khoi { get; set; }//2
-        public double do_am { get; set; }//3
+        public nodeSum() {
+            this.nhiet_do = new setData() { Time=0,value=0};
+            this.gas = new setData() { Time = 0, value = 0 };
+            this.khoi = new setData() { Time = 0, value = 0 };
+            this.do_am = new setData() { Time = 0, value = 0 };
+        }
+        public nodeSum(setData nhiet_do, setData gas, setData khoi, setData do_am)
+        {
+            this.nhiet_do = nhiet_do;
+            this.gas = gas;
+            this.khoi = khoi;
+            this.do_am = do_am;
+        }
+
+        public setData nhiet_do { get; set; }//0
+        public setData gas { get; set; }//1
+        public setData khoi { get; set; }//2
+        public setData do_am { get; set; }//3
     }
+
+    public class nodeSumlst
+    {
+        public List<setData> nhiet_do { get; set; }//0
+        public List<setData> gas { get; set; }//1
+        public List<setData> khoi { get; set; }//2
+        public List<setData> do_am { get; set; }//3
+    }
+    public class setDataString
+    {
+        public string Time { get; set; }
+        public double value { get; set; }
+    }
+    public class nodeSumlstString
+    {
+        public nodeSum sum { get; set; }
+        public List<setDataString> nhiet_do { get; set; }//0
+        public List<setDataString> gas { get; set; }//1
+        public List<setDataString> khoi { get; set; }//2
+        public List<setDataString> do_am { get; set; }//3
+    }
+    public class ObjValue
+    {
+        public string Id { get; set; }
+        public setData Value { get; set; }
+    }
+
+
 }
