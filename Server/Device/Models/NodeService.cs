@@ -16,7 +16,7 @@ namespace Device.Models
             {
                 return tog;
             }
-            var max = lst.Count < 7 ? lst.Count : 7;
+            var max = lst.Count < 6 ? lst.Count : 6;
             while(dem <= max)
             {
                 foreach(var item in lst)
@@ -39,7 +39,7 @@ namespace Device.Models
             {
                 return tog;
             }
-            var max = lst.Count < 7 ? lst.Count : 7;
+            var max = lst.Count < 6 ? lst.Count : 6;
             while (dem <= max)
             {
                 var lan_dau = false;
@@ -74,17 +74,22 @@ namespace Device.Models
                 dem++;
             }
             
+            
             return tog;
         }
         public static List<setData> paramAddition(List<setData> lst)
         {
             var dem = 1;
             var max = lst[lst.Count - 1].Time;
-            if(lst.Count == 7)
+            if(lst.Count == 6)
             {
                 return lst;
             }
-            while(dem <= 7)
+            if (lst.Count > 6)
+            {
+                lst.RemoveAt(0);
+            }
+            while(dem < 7)
             {
                 var xac_dinh = false;
                 foreach(var item in lst)

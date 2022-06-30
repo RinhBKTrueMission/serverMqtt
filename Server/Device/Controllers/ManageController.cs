@@ -156,16 +156,16 @@ namespace Device.Controllers
                 do_am = new List<setData>(),    
                 khoi = new List<setData>(), 
             };
-            sumlst.nhiet_do.AddRange(NodeService.paramAVER(paramlst,sum.nhiet_do.Time,x1));
+            sumlst.nhiet_do.AddRange(NodeService.paramAddition(NodeService.paramAVER(paramlst,sum.nhiet_do.Time,x1)));
             sumlst.nhiet_do.Reverse();
             sumlst.nhiet_do.Add(sum.nhiet_do);
-            sumlst.khoi.AddRange(NodeService.paramAVER(paramlst2, sum.khoi.Time, x2));
+            sumlst.khoi.AddRange(NodeService.paramAddition(NodeService.paramAVER(paramlst2, sum.khoi.Time, x2)));
             sumlst.khoi.Reverse();
             sumlst.khoi.Add(sum.khoi);
-            sumlst.gas.AddRange(NodeService.paramAVER(paramlst1, sum.gas.Time, x3));
+            sumlst.gas.AddRange(NodeService.paramAddition(NodeService.paramAVER(paramlst1, sum.gas.Time, x3)));
             sumlst.gas.Reverse();
             sumlst.gas.Add(sum.gas);
-            sumlst.do_am.AddRange(NodeService.paramAVER(paramlst3,sum.do_am.Time, x4));
+            sumlst.do_am.AddRange(NodeService.paramAddition(NodeService.paramAVER(paramlst3,sum.do_am.Time, x4)));
             sumlst.do_am.Reverse();
             sumlst.do_am.Add(sum.do_am);
 
