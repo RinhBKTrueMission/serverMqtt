@@ -80,7 +80,7 @@ namespace Device.Controllers
             }
 
             uc.NodeDb.Update(data.Id, newValue);
-            return Response("Success");
+            return Response("200");
         }
 
 
@@ -91,7 +91,7 @@ namespace Device.Controllers
             uc.DeviceDb = new Vst.Server.Data.DeviceData(uc.MainDb.PhysicalPath);
             var data = uc.DeviceDb.FindById(Id);
             var vm = Json.Convert<DeviceModel>(data);
-            vm.Name = "Success";
+            vm.Name = "200";
             return Response(vm);
         }
 
