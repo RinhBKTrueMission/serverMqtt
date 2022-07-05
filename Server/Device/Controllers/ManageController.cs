@@ -344,8 +344,8 @@ namespace Device.Controllers
             var uc = new ManageController();
             uc.BuildDb = new Vst.Server.Data.BuildingData(uc.MainDb.PhysicalPath);
             uc.NodeDb = new Vst.Server.Data.NodeData(uc.MainDb.PhysicalPath);
-            var lstDevice = uc.BuildDb.GetAll();
-            var build = (Building)lstDevice.First();
+            var lstDevice = uc.NodeDb.GetAll();
+            var build = JsonConvert.DeserializeObject<Building>(uc.BuildDb.FindById("B1").ToString());
             var lst1 = new List<string>();
             var xt = false;
             foreach (var item in build.floors)
@@ -380,7 +380,7 @@ namespace Device.Controllers
             var lstNode = new List<NodeModel>();
             foreach (var item in lst1)
             {
-                var value = (NodeModel)uc.NodeDb.FindById(item);
+                var value = JsonConvert.DeserializeObject<NodeModel>(uc.NodeDb.FindById(item).ToString());
                 if (value != null)
                 {
                     lstNode.Add(value);

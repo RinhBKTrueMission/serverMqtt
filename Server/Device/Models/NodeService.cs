@@ -80,6 +80,7 @@ namespace Device.Models
         public static List<setData> paramAddition(List<setData> lst)
         {
             var dem = 1;
+            
             var max = lst[lst.Count - 1].Time;
             if(lst.Count == 6)
             {
