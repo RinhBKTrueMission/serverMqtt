@@ -59,11 +59,11 @@ namespace Vst.Server.Data
         {
             var id = userName.ToLower();
             var acc = Accounts.FindById(id);
-
+            var ps = (id + password).ToMD5();
             if (acc != null)
             {
                 var pass = acc.Get(pw);
-                if (password.Equals(pass))
+                if (ps.Equals(pass))
                 {
                     acc.Remove(pw);
 

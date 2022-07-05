@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Newtonsoft.Json;
 namespace Device.Controllers
 {
     class ConfigController : Vst.Server.SlaveController
@@ -25,12 +25,64 @@ namespace Device.Controllers
             uc.NodeDb.CreateNode(CID, new NodeModel
             {
                 Id = id,
-                function = 0,
+                function = 3,
                 location = "N001P001T001",
                 status = 0,
                 listData = new List<setData>()
             });    
             return Response(CID);
+        }
+        public object getbuild()
+        {
+            var data = this.ServerContext.Value;
+            var uc = new ConfigController();
+            uc.BuildDb = new Vst.Server.Data.BuildingData(uc.MainDb.PhysicalPath);
+           var value = uc.BuildDb.FindById(data.ToString());
+            if (value == null)
+            {
+                return STATUS(401);
+            }
+            return Response(value);
+        }
+        public object Insertbuild()
+        {
+            var data = Json.Convert<Building>(this.ServerContext.Value);
+
+            var uc = new ConfigController();
+            uc.BuildDb = new Vst.Server.Data.BuildingData(uc.MainDb.PhysicalPath);
+            var value = uc.BuildDb.FindById(data.ToString());
+            if (value == null)
+            {
+                uc.BuildDb.CreateBuild(data.Id, data);
+                return STATUS(200);
+
+            }
+            return STATUS(403);
+        }
+        public object Updatebuild()
+        {
+            var data = Json.Convert<Building>(this.ServerContext.Value);
+
+            var uc = new ConfigController();
+            uc.BuildDb = new Vst.Server.Data.BuildingData(uc.MainDb.PhysicalPath);
+            var value = uc.BuildDb.FindById(data.Id);
+            if (value != null)
+            {
+                uc.BuildDb.Update(data.Id, data);
+                return STATUS(200);
+
+            }
+            return STATUS(403);
+        }
+        public object FindNode()
+        {
+            var Id = this.ServerContext.Value.ToString();
+            var uc = new ManageController();
+            uc.DeviceDb = new Vst.Server.Data.DeviceData(uc.MainDb.PhysicalPath);
+            var data = uc.DeviceDb.FindById(Id);
+            var vm = Json.Convert<DeviceModel>(data);
+            vm.Name = "200";
+            return Response(vm);
         }
     }
 }

@@ -119,6 +119,20 @@ namespace Vst.Server
             }
             set => _nodedb = value;
         }
+        //database cho toa nha
+        static Data.BuildingData _buildDb;
+        public Data.BuildingData BuildDb
+        {
+            get
+            {
+                if (_buildDb == null)
+                {
+                    _buildDb = new Data.BuildingData();
+                }
+                return _buildDb;
+            }
+            set => _buildDb = value;
+        }
         public ServerContext ServerContext { get; set; }
         protected PublishContext Response(object value)
         {
@@ -154,6 +168,10 @@ namespace Vst.Server
             return Response(null, null, code, message, null);
         }
         protected PublishContext Error(int code)
+        {
+            return Response(null, null, code, null, null);
+        }
+        protected PublishContext STATUS(int code)
         {
             return Response(null, null, code, null, null);
         }

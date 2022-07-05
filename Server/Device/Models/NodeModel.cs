@@ -84,6 +84,16 @@ namespace Device.Models
         public int Id { get; set; }
         public List<string> nodeId { get; set; }
     }
-
+    public class ObjBuiding
+    {
+        public int Id { get; set; }
+        public List<int> floors { get; set; }
+        
+    }
+    public class ObjFloor
+    {
+        public int Id { get; set; }
+        public List<int> rooms { get; set; }
+    }
 
 }

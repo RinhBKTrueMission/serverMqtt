@@ -75,3 +75,4 @@ C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\
 C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\obj\Debug\Account.csproj.CopyComplete
 C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\obj\Debug\Account.exe
 C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\obj\Debug\Account.pdb
+C:\Users\rinhb\OneDrive\Desktop\Đồ án tốt nghiệp 20212\Server\MQTT\MQTT\Server\Account\Account\bin\Debug\Newtonsoft.Json.xml

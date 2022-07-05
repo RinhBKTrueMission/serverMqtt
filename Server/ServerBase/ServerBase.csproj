@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\AccountData.cs" />
+    <Compile Include="Data\BuildingData.cs" />
     <Compile Include="Data\DeviceData.cs" />
     <Compile Include="Data\NodeData.cs" />
     <Compile Include="MasterServer.cs" />

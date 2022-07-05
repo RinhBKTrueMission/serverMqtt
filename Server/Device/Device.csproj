@@ -54,6 +54,7 @@
     <Compile Include="Controllers\ConfigController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\StatusController.cs" />
+    <Compile Include="Models\Building.cs" />
     <Compile Include="Models\DeviceModel.cs" />
     <Compile Include="Models\NodeModel.cs" />
     <Compile Include="Models\NodeService.cs" />
