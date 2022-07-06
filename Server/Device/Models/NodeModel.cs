@@ -79,6 +79,11 @@ namespace Device.Models
         public string Id { get; set; }
         public setData Value { get; set; }
     }
+    public class ObjValueList
+    {
+        public string Id { get; set; }
+        public List<setData> Value { get; set; }
+    }
     public class ObjRoom
     {
         public int Id { get; set; }

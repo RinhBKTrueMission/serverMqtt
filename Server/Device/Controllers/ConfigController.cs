@@ -78,10 +78,9 @@ namespace Device.Controllers
         {
             var Id = this.ServerContext.Value.ToString();
             var uc = new ManageController();
-            uc.DeviceDb = new Vst.Server.Data.DeviceData(uc.MainDb.PhysicalPath);
-            var data = uc.DeviceDb.FindById(Id);
-            var vm = Json.Convert<DeviceModel>(data);
-            vm.Name = "200";
+            uc.NodeDb = new Vst.Server.Data.NodeData(uc.MainDb.PhysicalPath);
+            var data = uc.NodeDb.FindById(Id);
+            var vm = Json.Convert<NodeModel>(data);
             return Response(vm);
         }
     }

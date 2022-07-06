@@ -92,7 +92,29 @@ namespace Device.Controllers
             uc.NodeDb.Update(data.Id, newValue);
             return STATUS(200);
         }
+        public object UpdateDataList()
+        {
+            var d = this.ServerContext.Value.ToString();
+            var data = JsonConvert.DeserializeObject<ObjValueList>(d);
+            var uc = new ManageController();
+            uc.NodeDb = new Vst.Server.Data.NodeData(uc.MainDb.PhysicalPath);
+            var newV = uc.NodeDb.FindById(data.Id);
+            var newValue = JsonConvert.DeserializeObject<NodeModel>(newV.ToString());
+            if (newValue.listData.Count == 0)
+            {
+                newValue.listData = new List<setData>();
+                newValue.listData.AddRange(data.Value);
 
+            }
+            else
+            {
+                newValue.listData.AddRange(data.Value);
+
+            }
+
+            uc.NodeDb.Update(data.Id, newValue);
+            return STATUS(200);
+        }
 
         public object Find()
         {
@@ -324,8 +346,8 @@ namespace Device.Controllers
             var id= this.ServerContext.Value.ToString();
             var uc = new ManageController();
             uc.NodeDb = new Vst.Server.Data.NodeData(uc.MainDb.PhysicalPath);
-            var lstBuild = uc.NodeDb.GetAll();
-            var build = (Building)lstBuild.First();
+            var lstBuild = uc.BuildDb.GetAll();
+            var build = JsonConvert.DeserializeObject<Building>(lstBuild.First().ToString());
             var floor= new Flooring();
             foreach(var item in build.floors)
             {
@@ -334,7 +356,7 @@ namespace Device.Controllers
                     floor = item;
                 }
             }
-            var roomlst = floor.rooms;
+            var roomlst = floor;
             return Response("response/roomlst", roomlst);
 
         }
@@ -463,9 +485,12 @@ namespace Device.Controllers
         {
             var id = this.ServerContext.Value.ToString();
             var uc = new ManageController();
+            uc.BuildDb = new Vst.Server.Data.BuildingData(uc.MainDb.PhysicalPath);
+            var lstBuild = uc.BuildDb.GetAll();
             uc.NodeDb = new Vst.Server.Data.NodeData(uc.MainDb.PhysicalPath);
-            var lstBuild = uc.NodeDb.GetAll();
-            var build = (Building)lstBuild.First();
+            //var  nodelist = uc.NodeDb.GetAll();
+            //var lstNode = JsonConvert.DeserializeObject <List<NodeModel>> (JsonConvert.SerializeObject(nodelist));
+            var build =JsonConvert.DeserializeObject<Building>(lstBuild.First().ToString());
             var room = new Room();
             var xt = false;
             foreach (var item in build.floors)
@@ -475,12 +500,24 @@ namespace Device.Controllers
                     if (v.Id == id)
                     {
                         room = v;
+                        xt = true;
                     }
+                    if (xt) { break; }
                 }
+                if (xt) { break; }
                 
             }
+            var value = new List<NodeModel>();
             var nodelst = room.NodeIds;
-            return Response("response/nodelstInRoom", nodelst);
+            foreach (var node in nodelst)
+            {
+                var v = uc.NodeDb.FindById(node);
+                if(v != null)
+                {
+                    value.Add(JsonConvert.DeserializeObject<NodeModel>(v.ToString()));
+                }
+            }
+            return Response("response/nodelstInRoom", value);
         }
     }
 }
