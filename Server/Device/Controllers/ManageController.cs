@@ -221,9 +221,20 @@ namespace Device.Controllers
             var data = Json.Convert<NodeModel>(node);
             var uc = new ManageController();
             uc.NodeDb = new Vst.Server.Data.NodeData(uc.MainDb.PhysicalPath);
-            //uc.NodeDb.Update(data.Id, data);
+            var value = Json.Convert<NodeModel>(uc.NodeDb.FindById(data.Id));
+            if (value != null && data.listData != null)
+            {         
+                value.listData.AddRange(data.listData);
+               
+            }
+            if(data.status != value.status)
+            {
+                value.status = data.status;
+                uc.NodeDb.Update(data.Id, value);
+            }
+            
 
-            return Response("alert",data);
+            return Response("alert",value);
         }
         public object NodeSumFloor()
         {
@@ -517,7 +528,8 @@ namespace Device.Controllers
                     value.Add(JsonConvert.DeserializeObject<NodeModel>(v.ToString()));
                 }
             }
-            return Response("response/nodelstInRoom", value);
+           
+            return Response("response/nodelstInRoom", value.OrderByDescending(s=> s.status));
         }
     }
 }
